@@ -1,0 +1,4 @@
+#!/bin/bash
+
+youtube-dl --extract-audio -i --audio-format mp3 --audio-quality 0 --no-part --no-mtime --output "%(uploader)s%(title)s.%(ext)s" --embed-thumbnail --add-metadata $1
+
