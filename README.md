@@ -1,5 +1,5 @@
 # youtube-to-mp3
-####This is an youtube-dl and based script 
+###This is an youtube-dl and based script 
 
 using this script is pretty simple. 
 1. Download it and copy it to your /usr/bin/ directory.
