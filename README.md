@@ -9,5 +9,6 @@ and you are ready to go.
 
 #Usage
 
-1. youtube_to_mp3 URL_from_youtube                  ###example : you_to_mp3 https://youtu.be/BPR4R8gfRr0
+1. youtube_to_mp3 URL_from_youtube                  
+example : you_to_mp3 https://youtu.be/BPR4R8gfRr0
 
